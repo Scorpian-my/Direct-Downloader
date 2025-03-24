@@ -100,7 +100,7 @@ python main.py
    - Send `/start` to begin
    - Send Instagram direct message links to download content
 
-3. Admin Panel (`/admin`):
+3. Admin Panel (`/start`):
    - View general statistics
    - Manage user list
    - Search users
